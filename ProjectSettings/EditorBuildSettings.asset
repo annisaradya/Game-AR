@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainmenu.unity
+    guid: 7733f8593455afe478672e461de867ee
+  - enabled: 1
+    path: Assets/Scenes/level.unity
+    guid: d2911805534fb3a4680a737a6ab4776a
+  - enabled: 1
+    path: Assets/Scenes/Edukasi.unity
+    guid: 77f578341e132ab459f82ea4756668b8
+  - enabled: 1
+    path: Assets/Scenes/HTP1.unity
+    guid: bd2a884aecf3ca74083eab315a5fea22
+  - enabled: 1
+    path: Assets/Scenes/HTP2.unity
+    guid: 6d828ff0762f91d4eb02b767a586ab37
+  - enabled: 1
+    path: Assets/Scenes/info.unity
+    guid: e612121443821c24cb6d2ebb5639b7ec
+  - enabled: 1
+    path: Assets/Scenes/konten1.unity
+    guid: 5064f47ecd75d204b964bbc17bc9e994
+  - enabled: 1
+    path: Assets/Scenes/konten2.unity
+    guid: 4c4cda6361487954ea33259546fe2615
+  - enabled: 1
+    path: Assets/Scenes/konten3.unity
+    guid: b080c39c12886674890ac8ca1ae32d70
+  - enabled: 1
+    path: Assets/Scenes/konten4.unity
+    guid: e078a6f704d6cac49b313f25cede9a2f
+  - enabled: 1
+    path: Assets/Scenes/konten5.unity
+    guid: 701bb0fa25f5468448eef8658d9760ac
+  - enabled: 1
+    path: Assets/Scenes/konten6.unity
+    guid: 354e791bec9eeaa4ba00a08ae3ce6e83
+  - enabled: 1
+    path: Assets/Scenes/konten7.unity
+    guid: f95f2b2dafc2c434e8b7ddb3f08a8dbb
+  - enabled: 1
+    path: Assets/Scenes/konten8.unity
+    guid: 17fcf22863dfffe4ea59e9d018b2b5f8
+  - enabled: 1
+    path: Assets/Scenes/main.unity
+    guid: de851464322d74342ad2e1fe63e40c77
+  - enabled: 1
+    path: Assets/Scenes/main2.unity
+    guid: 5e822930a75dda64f965058dbd9ecc94
+  - enabled: 1
+    path: Assets/Scenes/petunjuk.unity
+    guid: 1caca57f7fc871247a40d5f2e9a2a6cb
+  - enabled: 1
+    path: Assets/Scenes/ShootTheMonster.unity
+    guid: 014936cc10205314f8e210a0471a5a5a
+  - enabled: 1
+    path: Assets/Scenes/Shoot2.unity
+    guid: 2bc8b217f5fd99041be6985aa91a788d
+  - enabled: 1
+    path: Assets/Scenes/Shoot3.unity
+    guid: d91df8070e617f746abe0c9ef2daa2de
+  - enabled: 1
+    path: Assets/Scenes/Shoot4.unity
+    guid: 3679fbd32e4fdf444877bff3e43a5e9b
+  - enabled: 1
+    path: Assets/Scenes/Hunt.unity
+    guid: 0caab0d4cbb63594a97ab20c98287407
+  - enabled: 1
+    path: Assets/Scenes/Hunt2.unity
+    guid: 63c9372f1eb6f574aadf106ffc3c203c
+  - enabled: 1
+    path: Assets/Scenes/Hunt3.unity
+    guid: 9cd0e7655418c5641b9d3efcd3d56ecd
+  - enabled: 1
+    path: Assets/Scenes/Hunt4.unity
+    guid: 6e3611a4842d5dd449630988f26252f9
+  - enabled: 1
+    path: Assets/Scenes/levelhunt.unity
+    guid: 36e2a5b6f8720204a9af394199d6e055
+  m_configObjects: {}
